@@ -1,0 +1,15 @@
+*.pyc
+*~
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
+
+acm/
+
+byu-acm-web/
+
+
+netbeans-8.2.desktop
+
